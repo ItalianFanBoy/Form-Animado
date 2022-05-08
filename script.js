@@ -39,3 +39,6 @@ function showCurrentStep() {
     step.classList.toggle("active", index === currentStep)
   })
 }
+
+
+console.log()
